@@ -68,12 +68,12 @@
      inkscape:cx="430.45723"
      inkscape:cy="286.35895"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g5029"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="3832"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,63 +181,46 @@
         <g
            id="g3"
            style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-	<g
-   id="g5"
-   style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-		<path
-   inkscape:connector-curvature="0"
-   d="M 464.695,0 H 112.161 C 97.871,0 86.267,11.595 86.267,25.896 v 525.067 c 0,14.301 11.605,25.896 25.894,25.896 h 258.517 c 66.229,0 119.915,-53.688 119.915,-119.906 V 25.896 C 490.593,11.595 478.987,0 464.695,0 z m -329.61,80.745 c 0,-11.744 9.523,-21.255 21.259,-21.255 h 264.168 c 11.736,0 21.257,9.511 21.257,21.255 v 149.381 c 0,11.745 -9.521,21.255 -21.257,21.255 H 156.345 c -11.736,0 -21.259,-9.51 -21.259,-21.255 V 80.745 z m 129.346,349.477 c 0,4.657 -3.776,8.433 -8.431,8.433 h -31.23 v 31.228 c 0,4.658 -3.774,8.433 -8.432,8.433 h -40.82 c -4.657,0 -8.433,-3.774 -8.433,-8.433 v -31.228 h -31.224 c -4.658,0 -8.434,-3.776 -8.434,-8.433 V 389.4 c 0,-4.657 3.776,-8.433 8.434,-8.433 h 31.226 v -31.229 c 0,-4.657 3.776,-8.432 8.433,-8.432 h 40.823 c 4.657,0 8.431,3.773 8.431,8.432 v 31.229 h 31.23 c 4.655,0 8.431,3.774 8.431,8.433 v 40.821 h -0.004 z m 89.325,60.108 c -17.257,0 -31.245,-13.988 -31.245,-31.246 0,-17.257 13.988,-31.247 31.245,-31.247 17.258,0 31.246,13.988 31.246,31.247 0.002,17.258 -13.988,31.246 -31.246,31.246 z m 57.686,-96.142 c -17.258,0 -31.244,-13.987 -31.244,-31.246 0,-17.258 13.986,-31.247 31.244,-31.247 17.259,0 31.247,13.987 31.247,31.247 0,17.258 -13.988,31.246 -31.247,31.246 z"
-   id="path7"
-   style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-
-	</g>
-
-</g>
+          <g
+             id="g5"
+             style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               d="M 464.695,0 H 112.161 C 97.871,0 86.267,11.595 86.267,25.896 v 525.067 c 0,14.301 11.605,25.896 25.894,25.896 h 258.517 c 66.229,0 119.915,-53.688 119.915,-119.906 V 25.896 C 490.593,11.595 478.987,0 464.695,0 z m -329.61,80.745 c 0,-11.744 9.523,-21.255 21.259,-21.255 h 264.168 c 11.736,0 21.257,9.511 21.257,21.255 v 149.381 c 0,11.745 -9.521,21.255 -21.257,21.255 H 156.345 c -11.736,0 -21.259,-9.51 -21.259,-21.255 V 80.745 z m 129.346,349.477 c 0,4.657 -3.776,8.433 -8.431,8.433 h -31.23 v 31.228 c 0,4.658 -3.774,8.433 -8.432,8.433 h -40.82 c -4.657,0 -8.433,-3.774 -8.433,-8.433 v -31.228 h -31.224 c -4.658,0 -8.434,-3.776 -8.434,-8.433 V 389.4 c 0,-4.657 3.776,-8.433 8.434,-8.433 h 31.226 v -31.229 c 0,-4.657 3.776,-8.432 8.433,-8.432 h 40.823 c 4.657,0 8.431,3.773 8.431,8.432 v 31.229 h 31.23 c 4.655,0 8.431,3.774 8.431,8.433 v 40.821 h -0.004 z m 89.325,60.108 c -17.257,0 -31.245,-13.988 -31.245,-31.246 0,-17.257 13.988,-31.247 31.245,-31.247 17.258,0 31.246,13.988 31.246,31.247 0.002,17.258 -13.988,31.246 -31.246,31.246 z m 57.686,-96.142 c -17.258,0 -31.244,-13.987 -31.244,-31.246 0,-17.258 13.986,-31.247 31.244,-31.247 17.259,0 31.247,13.987 31.247,31.247 0,17.258 -13.988,31.246 -31.247,31.246 z"
+               id="path7"
+               style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          </g>
+        </g>
         <g
-           id="g9">
-</g>
+           id="g9" />
         <g
-           id="g11">
-</g>
+           id="g11" />
         <g
-           id="g13">
-</g>
+           id="g13" />
         <g
-           id="g15">
-</g>
+           id="g15" />
         <g
-           id="g17">
-</g>
+           id="g17" />
         <g
-           id="g19">
-</g>
+           id="g19" />
         <g
-           id="g21">
-</g>
+           id="g21" />
         <g
-           id="g23">
-</g>
+           id="g23" />
         <g
-           id="g25">
-</g>
+           id="g25" />
         <g
-           id="g27">
-</g>
+           id="g27" />
         <g
-           id="g29">
-</g>
+           id="g29" />
         <g
-           id="g31">
-</g>
+           id="g31" />
         <g
-           id="g33">
-</g>
+           id="g33" />
         <g
-           id="g35">
-</g>
+           id="g35" />
         <g
-           id="g37">
-</g>
+           id="g37" />
         <image
            style="display:inline"
            width="187.85991"
@@ -303,7 +286,7 @@
              style="font-size:12px;font-weight:normal;fill:#525252;fill-opacity:1"
              id="tspan5010"><tspan
    style="font-weight:bold"
-   id="tspan5012">$100 Sparkfun</tspan> gift card.</tspan></text>
+   id="tspan5012">$100 Digilent</tspan> gift card.</tspan></text>
       </g>
       <g
          transform="translate(-3.5714231,-36.428572)"
